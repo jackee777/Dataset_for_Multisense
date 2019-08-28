@@ -15,7 +15,6 @@ title="Constructing Dataset Based on Concept Hierarchy for Evaluating Word Vecto
 booktitle="Knowledge Management and Acquisition for Intelligent Systems",
 year="2019",
 publisher="Springer International Publishing",
-address="c5618168@aoyama.jp",
 pages="81--96",
 }
 ```
