@@ -1,5 +1,5 @@
 # Schedule of Publication
-I'm sorry for the late of publication of dataset and evaluation codes.
+I'm sorry for the late publication of the dataset and evaluation codes.
 Because I'm master's degree student (in 08/2019) and I have another work about learning model consider multisense words, I don't have enough time to publish the good and easy evaluation code and the good structure of the proposed dataset.
 
 My schedule is following.
