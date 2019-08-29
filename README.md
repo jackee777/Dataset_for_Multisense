@@ -1,3 +1,12 @@
+# Schedule of Publication
+I'm sorry for the late of publication of dataset and evaluation codes.
+Because I'm master's degree student (in 08/2019) and I have another work about learning model consider multisense words, I don't have enough time to publish the good and easy evaluation code and the good structure of the proposed dataset.
+
+My schedule is following.
+- until 15/09/2019, we will publish the dataset and evaluation codes.
+- until 31/03/2020 (I aim until 2019), we will publish the next paper about the detail of this proposed construction methods and evaluation metric.
+- while 2020 (I aim until 31/03/2020), we might be going to publish the paper about sentence-based evaluation.
+
 # Dataset_for_Multisense
 This repository is the "Dataset Based on Concept Hierarchy for Evaluating Word Vectors Learned from Multisense Words".
 
@@ -25,8 +34,3 @@ Our future works are divided into 2 types of strategies:
 one is the validity of this proposed dataset because we need to investigate this dataset in a various setting, and the other one is the extension to sentence-based dataset to evaluate word vectors that have the probability to change words' meaning.
 This proposed dataset evaluates word vecotrs directly; maybe it's should be called sense-based evaluation (We call word similarity datasets word-based evaluation because they evaluate word vectors by using similarities between words).
 Sentence-based evaluation evaluates word vectors in sentences such as CoVe, ELMo, and so on.
-
-# Schedule of Publication
-- until 15/09/2019, we will publish the dataset and evaluation codes.
-- until 31/03/2020 (I aim until 2019), we will publish the next paper about the detail of this proposed construction methods and evaluation metric.
-- while 2020 (I aim until 31/03/2020), we might be going to publish the paper about sentence-based evaluation.
